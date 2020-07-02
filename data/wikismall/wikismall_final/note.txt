@@ -1,0 +1,16 @@
+src = txt = input = source = complex
+dst = target = simple = output
+
+Change names:
+Train:
+PWKP_108016.tag.80.aner.ori.train.src => small_train_input.txt
+PWKP_108016.tag.80.aner.ori.train.dst => small_train_output.txt
+
+Test:
+PWKP_108016.tag.80.aner.ori.test.src => small_test_input.txt
+PWKP_108016.tag.80.aner.ori.test.dst => small_test_output.txt
+
+Validation:
+PWKP_108016.tag.80.aner.ori.valid.src => small_valid_input.txt
+PWKP_108016.tag.80.aner.ori.valid.dst => small_valid_output.txt
+
